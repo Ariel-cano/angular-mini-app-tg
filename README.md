@@ -29,3 +29,9 @@ This project helped me:
 - Integrate a **Telegram bot** for the first time.
 - Host an application using **Firebase** for the first time.
 - Improve my skills in managing **UI themes** and adjusting the design based on external variables.
+
+## Firebase Hosting
+
+This project is hosted on **Firebase Hosting**, providing a secure and fast platform for deploying web apps. You can view the app online at the following URL:
+
+[https://angular-tg-app-de450.web.app](https://angular-tg-app-de450.web.app)
