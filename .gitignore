@@ -2,8 +2,8 @@
 .firebaserc
 .firebase/
 .vscode/
-.firebase.json
-.public/
-.dist/
-.node_modules/
+firebase.json
+public/
+dist/
+node_modules/
 .idea/
