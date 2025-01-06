@@ -1,27 +1,37 @@
-# AngularTgApp
+# Mini App for Telegram in Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+This is my first project using **Angular**! 🎉
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This mini application is designed to collect and showcase my GitHub projects in one place. It works as a **Telegram bot** that displays a list of my repositories. Users can view the project details and navigate to each project through the provided links. Additionally, the app dynamically adjusts its UI based on the Telegram theme, giving a personalized feel.
 
-## Code scaffolding
+## Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Displays GitHub repositories**: The bot fetches a list of my GitHub repositories.
+- **Project details and links**: Users can click on a project to view more details and visit the project’s GitHub page.
+- **Telegram theme integration**: The app changes its appearance depending on the current Telegram theme.
+- **Firebase hosting**: The app is hosted using Firebase, providing a reliable and easy deployment process.
 
-## Build
+## Technologies Used
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- **Angular**: The core framework for building the app.
+- **Firebase**: Used for hosting the application.
+- **Telegram Bot**: Integrated Telegram bot functionality for displaying repositories.
+- **GitHub API**: To fetch the repositories and project details.
 
-## Running unit tests
+## What I Learned
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+This project helped me:
 
-## Running end-to-end tests
+- Learn **Angular** from the ground up: Understand components, services, routing, and data binding.
+- Work with **APIs**: Fetch and display dynamic data from GitHub.
+- Integrate a **Telegram bot** for the first time.
+- Host an application using **Firebase** for the first time.
+- Improve my skills in managing **UI themes** and adjusting the design based on external variables.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Firebase Hosting
 
-## Further help
+This project is hosted on **Firebase Hosting**, providing a secure and fast platform for deploying web apps. You can view the app online at the following URL:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+[https://angular-tg-app-de450.web.app](https://angular-tg-app-de450.web.app)
