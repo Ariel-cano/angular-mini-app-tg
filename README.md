@@ -6,6 +6,13 @@ This is my first project using **Angular**! 🎉
 
 This mini application is designed to collect and showcase my GitHub projects in one place. It works as a **Telegram bot** that displays a list of my repositories. Users can view the project details and navigate to each project through the provided links. Additionally, the app dynamically adjusts its UI based on the Telegram theme, giving a personalized feel.
 
+## Light Theme Preview
+![Light Theme](./screenshots/light-theme.jpg)
+
+## Dark Theme Preview
+![Dark Theme](./screenshots/dark-theme.jpg)
+
+
 ## Features
 
 - **Displays GitHub repositories**: The bot fetches a list of my GitHub repositories.
